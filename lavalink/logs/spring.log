@@ -1,0 +1,42 @@
+2024-08-25T00:15:27.733-04:00  INFO 9056 --- [Lavalink] [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.13.Final
+2024-08-25T00:15:27.778-04:00  INFO 9056 --- [Lavalink] [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-08-25T00:15:27.801-04:00  INFO 9056 --- [Lavalink] [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2024-08-25T14:26:41.571-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : Starting Launcher v4.0.7 using Java 21.0.2 with PID 13440 (C:\Users\USER\Documents\LambdaServer\bots\Discord\lambot\lavalink\Lavalink.jar started by USER in C:\Users\USER\Documents\LambdaServer\bots\Discord\lambot\lavalink)
+2024-08-25T14:26:41.629-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2024-08-25T14:26:46.805-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : Started Launcher in 7.734 seconds (process running for 11.48)
+2024-08-25T14:26:47.214-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.7
+	Build time:     08.07.2024 22:14:17 UTC
+	Branch          HEAD
+	Commit:         93102f8
+	Commit time:    08.07.2024 21:49:02 UTC
+	JVM:            21.0.2
+	Lavaplayer      2.2.1
+
+2024-08-25T14:26:47.246-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2024-08-25T14:26:50.766-04:00  WARN 13440 --- [Lavalink] [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-08-25T14:26:50.968-04:00  INFO 13440 --- [Lavalink] [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2024-08-25T14:26:51.043-04:00  INFO 13440 --- [Lavalink] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3748 ms
+2024-08-25T14:26:51.676-04:00  INFO 13440 --- [Lavalink] [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2024-08-25T14:26:55.100-04:00  INFO 13440 --- [Lavalink] [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2024-08-25T14:26:55.107-04:00  INFO 13440 --- [Lavalink] [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2024-08-25T14:26:55.140-04:00  INFO 13440 --- [Lavalink] [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2024-08-25T14:26:55.170-04:00  INFO 13440 --- [Lavalink] [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2024-08-25T14:26:55.438-04:00  WARN 13440 --- [Lavalink] [main] l.server.config.SentryConfiguration      : Turning off sentry
+2024-08-25T14:26:57.237-04:00  INFO 13440 --- [Lavalink] [main] io.undertow                              : starting server: Undertow - 2.3.13.Final
+2024-08-25T14:26:57.325-04:00  INFO 13440 --- [Lavalink] [main] org.xnio                                 : XNIO version 3.8.8.Final
+2024-08-25T14:26:57.378-04:00  INFO 13440 --- [Lavalink] [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2024-08-25T14:26:57.913-04:00  INFO 13440 --- [Lavalink] [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2024-08-25T14:26:58.192-04:00  INFO 13440 --- [Lavalink] [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port 2333 (http) with context path '/'
+2024-08-25T14:26:58.224-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : Started Launcher in 11.381 seconds (process running for 22.898)
+2024-08-25T14:26:58.228-04:00  INFO 13440 --- [Lavalink] [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2024-08-25T14:57:35.388-04:00  INFO 13440 --- [Lavalink] [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.13.Final
+2024-08-25T14:57:35.421-04:00  INFO 13440 --- [Lavalink] [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.

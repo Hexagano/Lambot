@@ -1,0 +1,58 @@
+{
+  "colors": {
+    "default": "#2B2D31",
+
+    "primary": "#fb6d17",
+    "secondary": "#4f545c",
+    "success": "#22c55e",
+    "danger": "#ED4245",
+    "info": "#FEE75C",
+    "warning": "#fbbd23",
+
+    "florest": "#235546",
+    "magic": "#c026d3",
+    "green": "#57F287",
+    "fuchsia": "#EB459E",
+    "azoxo": "#5865F2",
+
+    "developer": "#3e70dd",
+    "balance": "#45ddc0",
+    "brilliance": "#f07d5f",
+    "nitro": "#ff6bfa",
+    "bravery": "#9c84ef"
+  },
+  "defaultActivity": "só observando 👀",
+  "playingActivity": "%music_name%",
+
+  "LAVA_NAME":"Main",
+  "LAVA_HOST":"lava-v3.ajieblogs.eu.org",
+  "LAVA_PORT": 443,
+  "LAVA_PASS":"https://dsc.gg/ajidevserver",
+  "LAVA_SECURE": true,
+
+  "emojis": {
+    "animated": {
+      "amogusspin": "1263585770002976810",
+      "cancel": "1267509531949273128",
+      "discopepe": "1267511318785691748",
+      "catdancing": "1267511125210042480"
+    },
+    "static": {
+      "volume": "1267544492425220126",
+      "home": "1267509450659336253",
+      "previous": "1267509445307666565",
+      "next": "1267509453029245049",
+      "stop": "1277417924843278346",
+      "resume": "1277417926898487336",
+      "listening": "1277417922519896186",
+      "pause": "1277415698066309180",
+
+      "successEmoji": "1263585744216395960",
+      "warningEmoji": "1263585747160662156",
+      "errorEmoji": "1263585741431242782",
+      "amogusdoingsomething": "1262457267114999830",
+      "anyajumping": "1263585771768643789",
+      "whitethingtwerking": "1263585773714931805"
+    }
+  }
+}

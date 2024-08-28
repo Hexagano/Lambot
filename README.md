@@ -1,4 +1,4 @@
-# Awesome Bot Base
+# LamBot
 
 * Este é um projeto de um bot simples que tem a capacidade de tocar musicas, moderação e outros comandos utilitarios.
 * É feito em typescript misturado com javascript.
